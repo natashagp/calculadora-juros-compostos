@@ -24,3 +24,4 @@ Rodar o projeto
 python main.py
 ```
 
+![calculo_juros_compostos](https://github.com/user-attachments/assets/53d9d536-f0e8-4cf2-afab-3b53c688c859)
